@@ -1,0 +1,5 @@
+D:\Java\SampleStoreNew V1\SampleStoreNew V1\bin\SampleStoreNew V1.dll
+D:\Java\SampleStoreNew V1\SampleStoreNew V1\bin\SampleStoreNew V1.pdb
+D:\Java\SampleStoreNew V1\SampleStoreNew V1\obj\Debug\SampleStoreNew V1.dll
+D:\Java\SampleStoreNew V1\SampleStoreNew V1\obj\Debug\SampleStoreNew V1.pdb
+D:\Java\SampleStoreNew V1\SampleStoreNew V1\obj\Debug\SampleStoreNew V1.csprojResolveAssemblyReference.cache
